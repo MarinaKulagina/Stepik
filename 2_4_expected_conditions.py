@@ -42,5 +42,6 @@ def chet (rrr):
 y = chet(rrr)
 browser.find_element_by_id("answer").send_keys(y)
 browser.find_element_by_id("solve").click()
+m
 
 
